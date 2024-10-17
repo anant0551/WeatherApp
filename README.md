@@ -16,10 +16,10 @@ A simple, real-time weather tracking application that provides users with the la
 ![Search Page](images/search-page.png)
 
 ### 2. Weather Results
-![Weather Results](images/weather-results.png)
+![Weather Results](images/result.png)
 
 ### 3. Error Message for Invalid City
-![Error Message](images/error-message.png)
+![Error Message](images/error.png)
 
 ## Technologies Used
 
@@ -56,7 +56,7 @@ A simple, real-time weather tracking application that provides users with the la
 3. **Error Handling**: If the city is not found, the app will display an error message.
 
 ### Example: Display Weather for New York
-![New York Weather](images/new-york-weather.png)
+![New York Weather](images/newyork.png)
 
 ## API Key Setup
 
